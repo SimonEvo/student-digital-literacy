@@ -11,3 +11,4 @@
 | [0001](0001-static-html-guide-not-realtime-ai.md) | 纯静态 HTML 指南，而非学生侧实时 AI | 已接受 |
 | [0002](0002-mobile-first-hard-constraint.md) | Mobile-first 硬约束 | 已接受 |
 | [0003](0003-qr-primary-access-path.md) | QR 码为主访问路径，静态 QR + 稳定子域名 | 已接受 |
+| [0004](0004-click-only-interaction-multifile-static.md) | 点击式互动、学生零输入；多文件静态站点 | 已接受 |
